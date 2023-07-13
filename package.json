@@ -15,5 +15,8 @@
     "astro": "^2.8.1",
     "nanostores": "^0.8.1",
     "preact": "^10.15.1"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.1"
   }
 }
